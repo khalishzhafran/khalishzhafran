@@ -3,7 +3,7 @@
 ## Web Developer & Game Developer
 
 - 🌍  I'm based in Makassar, Indonesia
-- 🖥️  See my portfolio at [here](http://khalishzhafran.github.io/Portofolio/)
+- 🖥️  See my portfolio at [here](https://khalishzhafran.github.io/my-portfolio/)
 - ✉️  You can contact me at [khalish260303@gmail.com](mailto:khalish260303@gmail.com)
 - 🚀  I'm currently working on [Electronic Engineering Polytechnic Institute of Surabaya](http://www.pens.ac.id/)
 - 🧠  I'm learning React JS, React Native, Django, API
