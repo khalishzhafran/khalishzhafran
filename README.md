@@ -14,7 +14,7 @@ src="https://img.shields.io/twitter/follow/khalish260303?logo=twitter&style=for-
 /></a><a href="https://www.github.com/khalishzhafran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/khalishzhafran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,11 +32,18 @@ src="https://img.shields.io/github/followers/khalishzhafran?logo=github&style=fo
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.codepen.io/khalish-litsch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Rannn.#4468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/muhammad.khalish.5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/khalishzhafran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khalish260303" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-khalish-zhafran-104863221/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18424896/muhammad-khalish-zhafran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/khalish260303" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@muhammadkhalishzhafran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
+
+<b>My Badges</b>
+
+<a href="https://www.credly.com/badges/47f0c57c-ba87-4d07-b6a5-4349119ad159/public_url"><img src="https://images.credly.com/size/110x110/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Unity Junior Programmer Badge" /></a>
+<a href="https://www.credly.com/badges/8886edee-c3aa-4816-bd85-4cedb7a40bbc/public_url"><img src="https://images.credly.com/size/110x110/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" alt="Unity Associate Programmer Certified Badge" /></a>
+
+<br />
 
 <b>My GitHub Stats</b>
 
@@ -56,6 +63,6 @@ src="https://img.shields.io/github/followers/khalishzhafran?logo=github&style=fo
 
 <br /><br /><br /><br /><br /><br />
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/khalish2606"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
